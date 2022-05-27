@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Жилье 1
+title: Жилье
 sidebar_link: true
-sidebar_sort_order: 6
+sidebar_sort_order: 3
 ---
 
 ### Поиск
