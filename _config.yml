@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Felicia Bacon
-email: feliciaiveliz@gmail.com
+title: Amsterdam
+email: gripanov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineering Student at Launch School.
+  Все самое необходимое для переезда в Амстердам
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: https://feliciabacon.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hey_leasha
-github_username:  feliciaiveliz
-youtube: Felicia Bacon
-linkedin: feliciaiveliz
+url: https://rugpanov.github.io
+twitter_username: rugpanov
+github_username:  rugpanov
 
 # Build settings
 #theme: jekyll-theme-hydeout
@@ -36,7 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
 
-paginate: 3
+#paginate: 3
 paginate_path: '/page/:num'
 remote_theme: fongandrew/hydeout
 
