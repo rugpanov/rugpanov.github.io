@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Жилье
+title: Жилье 2
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 7
 ---
 
 ### Поиск
@@ -14,6 +14,7 @@ sidebar_sort_order: 3
 * [Funda](https://www.funda.nl/en/huur/). Бесплатно. Много меблированных квартир.
 * [Pararius](https://www.pararius.com/english). Бесплатно.  Много квартир без мебели.
 * [RentSlam](https://rentslam.com/en/) - платная подписка, присылает все новые квартиры на почту, агрегирует сразу несколько бесплатных сервисов, можно покупать одну подписку на нескольких человек и настраивать редирект писем.
+
 <br>
 <details>
   <summary>Шаблон сообщения с просьбой назначить просмотр</summary>
@@ -24,3 +25,4 @@ sidebar_sort_order: 3
     With best regards, *your name*.
 </p>
 </details>
+<br>
