@@ -1,0 +1,53 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+remote_theme:     fongandrew/hydeout
+
+# Setup
+title:            Amsterdam
+tagline:          '-----------tagline-----------'
+description:      'Все самое необходимое для переезда в Амстердам'
+url:              https://rugpanov.github.io
+baseurl:          '/amsterdam'
+  # the optional subpath of your site, e.g. "/blog"
+  # NB: This applies to all pages in your Jekyll site.
+  # If you want to move just the blog index pages but keep
+  # other pages at root, see the paginate_path and
+  # sidebar_blog_link below.
+
+author:
+  name:           'Grigory Panov'
+  url:            https://.github.com/rugpanov
+
+#paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - .gitignore
+  - README.md
+
+permalink:        /:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
+
+# Sidebar link settings
+# sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+disqus:
+  shortname:      hydeout
