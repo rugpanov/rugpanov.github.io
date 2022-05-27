@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Жилье 2
+title: Жилье 239
 sidebar_link: true
 sidebar_sort_order: 7
 ---
@@ -43,4 +43,23 @@ sidebar_sort_order: 7
     P.S. I attached my contact and photo of me for your reference.<br>
     With best regards, *your name*.
 </p>
-</details><br>
+</details>
+<br>
+
+Прикрепляем к письму ваш контракт и фотографию. Фотография может повысить ваши шансы.
+
+### Заселение в квартиру
+1. Регистрируемся в муниципалитете. Можно [онлайн](https://www.amsterdam.nl/en/civil-affairs/moving-amsterdam/) с помощью аккаунта DigiD.
+   ВАЖНО! Необходимо сделать в течение 5 дней с момента начала контракта.
+
+2. Подключаем поставщиков. Мой выбор:
+* [Waternet](https://www.waternet.nl/) - единственный поставщик воды в Амстердаме.
+* [Vandebron](https://vandebron.nl/) - на 02.12.2021 самый дешевый поставщик газа + электричества в Амстердаме.
+> [Сравнение поставщиков](https://github.com/rugpanov/amsterdam/blob/main/ENERGY_SUPPLIERS.md)
+* [Ziggo](https://www.ziggo.nl/internet/start) - популярный провайдер интернета. Цена: € 42,50 // € 29,95 (первые 6 месяцев).
+
+3. Находим семейного врача (huisarts) рядом с домом. Врач ищется:
+* **через гугл карты** по запросу "huisarts" рядом с домом - есть отзывы, но не все отображается, с некоторыми GP у страховой нет контракта.
+* **через страховую компанию** (по телефону или через сайт) - видны все доступные практики, нет отзывов.   
+  [Портал для клиентов Zilveren Kruis](https://zorgzoeker.zilverenkruis.nl/). Вводить huisarts и свой postcode.
+* **страховая + отзывы на гугл картах** (мой выбор).
