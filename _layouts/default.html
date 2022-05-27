@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en-us'}}">
+<html lang="en-us">
 
   {% include head.html %}
 
@@ -8,7 +8,7 @@
     {% include sidebar.html %}
 
     <main class="container">
-      {{ content }}
+      {{ content | replace: '<a href="http', '<a rel="noopener" target="_blank" href="http' }}
     </main>
 
     {% include custom-foot.html %}
