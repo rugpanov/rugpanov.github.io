@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Все самое необходимое для переезда в Амстердам
 #baseurl: "" # the subpath of your site, e.g. /blog
 url:              https://rugpanov.github.io
-baseurl:          '/amsterdam'
 github_username:  rugpanov
 
 # Build settings
