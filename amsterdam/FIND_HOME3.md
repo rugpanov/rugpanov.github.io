@@ -15,7 +15,6 @@ sidebar_sort_order: 3
 * [Pararius](https://www.pararius.com/english). Бесплатно.  Много квартир без мебели.
 * [RentSlam](https://rentslam.com/en/) - платная подписка, присылает все новые квартиры на почту, агрегирует сразу несколько бесплатных сервисов, можно покупать одну подписку на нескольких человек и настраивать редирект писем.
 <br>
-<details>
   <summary>Шаблон сообщения с просьбой назначить просмотр</summary>
 
 <p class="message">
@@ -23,4 +22,3 @@ sidebar_sort_order: 3
     <br><br>
     With best regards, *your name*.
 </p>
-</details>
