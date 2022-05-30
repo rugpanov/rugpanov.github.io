@@ -46,7 +46,7 @@ future: true
 subscribe-link: false
 tags_page: false
 search_page: false
-
+google_analytics: G-2W7G2W2VZS
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
