@@ -41,7 +41,9 @@ sidebar_home_link: false
 enable_disqus: false
 enable_commento: true
 future: true
-
+subscribe-link: false
+tags_page: false
+search_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
