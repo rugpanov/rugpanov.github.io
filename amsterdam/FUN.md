@@ -2,7 +2,7 @@
 layout: page
 title: Полезные ссылки
 sidebar_link: true
-sidebar_sort_order: 4
+sidebar_sort_order: 5
 ---
 
 ### Социализируемся
