@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Замена водительских прав
+title: Водительские права
 sidebar_link: true
 sidebar_sort_order: 4
 ---
