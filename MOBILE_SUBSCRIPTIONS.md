@@ -5,9 +5,9 @@
 | Name                   	                                                                                                                                  | Limits                       	      | Price        	          |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------|
 | [Vodafone](https://www.vodafone.nl/abonnement/mobiel/sim-only?duration=12&together-extra-subscription-count=0&subscription=red65-red&ziggo=false)     	   | 	                                   | 	                       |
-| Vodafone Start L       	                                                                                                                                  | 4 GB // 150 min // ꝏ sms   	        | € 16,50      	          |
-| Vodafone Red           	                                                                                                                                  | 12.5 GB // ꝏ min // ꝏ sms  	        | € 24,00      	          |
-| Vodafone Red Unlimited 	                                                                                                                                  | ꝏ GB // ꝏ min // ꝏ sms     	        | € 32,50      	          |
+| Vodafone Start L       	                                                                                                                                  | 5 GB // 150 min // ꝏ sms   	        | € 16,50      	          |
+| Vodafone Red           	                                                                                                                                  | 15 GB // ꝏ min // ꝏ sms  	        | € 24,00      	          |
+| Vodafone Red Unlimited 	                                                                                                                                  | ꝏ GB // ꝏ min // ꝏ sms     	        | € 30,00      	          |
 | [T-mobile](https://www.t-mobile.nl/mobiel-abonnement/sim-only?shop=product&ch=es&cc=con&sc=acq&dr=12&pr=GOP43,GAP53&lp=1)         	                       | 	                                   | 	                       |
 | T-mobile 8 Gb          	                                                                                                                                  | 8 GB // ꝏ min // ꝏ sms     	        | € 20,00      	          |
 | T-mobile 15 Gb         	                                                                                                                                  | 15 GB // ꝏ min // ꝏ sms    	        | € 23,00      	          |
@@ -20,6 +20,10 @@
 | Youfone 6 Gb            	                                                                                                                                 | 6 GB // 200 min // 200 sms 	        | €  4,75** // € 9.5  	   |
 | Youfone 10 Gb            	                                                                                                                                | 10 GB // 200 min // 200 sms     	   | € 5.75** // € 11.5 	    |
 | Youfone 20 Gb            	                                                                                                                                | 20 GB // 200 min // 200 sms     	   | € 17 	                  |
+
+`* - первые 6 месяцев`
+`** - первые 3 месяца`
+
 
 `* - первые 6 месяцев`
 `** - первые 3 месяца`
