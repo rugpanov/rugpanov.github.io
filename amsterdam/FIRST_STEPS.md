@@ -50,8 +50,7 @@ sidebar_sort_order: 2
 
 ### Что еще?
 1. Оформляем [именную транспортную карту](https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/apply-for-personal-ov-chipkaart.htm)
-   если нужно, подключаем подписку на поездки в выходные или
-   [скидку](https://www.connexxion.nl/nl/shop/kortingsproduct/zwam-dal-voordeel) на транспорт на автобусы/трамваи
+   если нужно, подключаем [подписку](https://www.ns.nl/en/nsflex/webshop#/bestelling/producten) на поездки в выходные.
 
 2. Оформляем [музейную карту](https://www.museum.nl/en/museumpass)  
    65 евро в год - более 400 бесплатных музеев по всей Голландии. В среднем стоимость посещения одного музея 15-20 евро
